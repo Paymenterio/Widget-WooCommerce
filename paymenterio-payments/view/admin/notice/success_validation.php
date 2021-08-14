@@ -1,0 +1,1 @@
+<div class="notice notice-success is-dismissible"><p><?= __('Ustawienia zostały pomyślnie zweryfikowane.', 'paymenterio-payments'); ?></p></div>
